@@ -14,3 +14,12 @@ Nepal Sandes is a fully functional Nepali news website developed using WordPress
 - **Stocks Section:** A dedicated section for live stock market updates.
 - **Responsive Design:** Ensures the website is fully responsive across devices.
 - **SEO Optimized:** The site is optimized for search engines to improve discoverability.
+## License
+This project is for the exclusive use of Bikash Sharma and his team. Any redistribution or replication without permission is prohibited.
+
+## Contact
+For any queries, you can reach the developer at:
+
+**Name:** Pradip Subedi
+**Website:** *pradipsubedi1.com.np*
+**GitHub:** sprasapradip
