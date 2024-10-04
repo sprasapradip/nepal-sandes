@@ -18,7 +18,7 @@ Nepal Sandes is a fully functional Nepali news website developed using WordPress
 ## Preview
 Below is a preview of the Nepal Sandes website:
 
-![Nepal Sandes Preview](screenshot.jpeg)
+![Nepal Sandes Preview](/screenshot.jpeg)
 
 ## License
 This project is for the exclusive use of Bikash Sharma and his team. Any redistribution or replication without permission is prohibited.
