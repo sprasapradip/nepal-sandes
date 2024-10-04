@@ -16,7 +16,7 @@ Nepal Sandes is a fully functional Nepali news website developed using WordPress
 - **SEO Optimized:** The site is optimized for search engines to improve discoverability.
 
 ## Preview
-Below is a preview of the Nepal Sandes website:
+Below is a preview of the [nepalsandes.com](https://nepalsandes.com) website:
 
 ![Nepal Sandes Preview](Screenshot.png)
 
@@ -24,8 +24,11 @@ Below is a preview of the Nepal Sandes website:
 This project is for the exclusive use of Bikash Sharma and his team. Any redistribution or replication without permission is prohibited.
 
 ## Contact
-For any queries, you can reach the developer at:
+For any queries or support, feel free to contact the developer:
+- **Name:** Pradip Subedi
+- **Email:** sprasapradip@gmail.com
+- **Website:** [pradipsubedi1.com.np](https://pradipsubedi1.com.np)
+- **GitHub:** [sprasapradip](https://github.com/sprasapradip)
+- **Phone:** +977 9843944252 / +977 9805151362
 
-**Name:** Pradip Subedi
-**Website:** *pradipsubedi1.com.np*
-**GitHub:** sprasapradip
+*For project-related inquiries, or to discuss building a similar website, contact me directly via email or phone.*
